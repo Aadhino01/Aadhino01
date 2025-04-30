@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Aadhil
+I am Aadhil C Brenny, and i am a 2nd year  Btech Computer Science student at Amal Jyothi College of Enginnering, Kanjirappally. 
 <!--
 **Aadhino01/Aadhino01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
